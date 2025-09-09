@@ -1,0 +1,25 @@
+[
+  {
+    "FirstName": "Tareq",
+    "LastName": "Abo Samra",
+    "Email": "tareq@abosamra.net",
+    "Address": {
+      "Country": "Syria",
+      "City": "Aleppo",
+      "StreetNumber": "ABC001"
+    }
+
+  },
+  {
+    "FirstName": "Ayman",
+    "LastName": "Abo Samra",
+    "Email": "Ayman@abosamra.net",
+    "Address": {
+      "Country": "Syria",
+      "City": "Aleppo",
+      "StreetNumber": "Z445"
+    }
+  }
+
+
+]
